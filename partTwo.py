@@ -5,7 +5,9 @@ secret_number = random.randit(1 ,10)
 print("secret_number")
 if x = secret_number
 print ("congrats")
-if x != secert_number 
-print ("try again")
+if x > secert_number 
+print ("too low")
+if x < secert_number
+print ("too high")
 
 main()
